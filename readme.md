@@ -18,5 +18,12 @@ Libraries and Resources Used
 XGboost
 Scikit-learn
 OpenF1 API
+Urrlib3
+Pandas
+Numpy
 
 This project is ongoing and more updates will be commited
+[] add weights based on qualifying result
+[] add prediciton utilizing random forest
+[] create unit testing for utlitiy functions
+
