@@ -13,6 +13,8 @@ When first researching this I went through several models to determine what woul
 I also wanted to choose a model that would improve over each iteration and be able to handle missing values if needed. With those criteria in mind using XGBoost seemed to make the most sense in this scenario. Now lets see if we can use this model to predict the race winner for a given session using variuos data points gathered.
 
 ###Libraries and Resources Used
+
+
 XGboost
 Scikit-learn
 OpenF1 API
